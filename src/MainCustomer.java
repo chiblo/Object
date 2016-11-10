@@ -10,7 +10,7 @@ public class MainCustomer {
 		
 		if (printSimon== GenderType.MALE) {
 			
-			System.out.println("He is asad sd asd asd ads dasd  male");
+			System.out.println("He is asad sd  dasd  male");
 		}
 		
 		
